@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/juanmiguelpallo"><img src="https://api.daily.dev/devcards/v2/HjynnvEeQyMpbmv9WKE7o.png?r=p6y&type=default" width="356" alt="Juan Miguel Pallo's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Juan Miguel Pallo</h1>
 <h3 align="center">Experienced software developer with five years of expertise in diverse programming languages and strong problem-solving skills, eager to contribute to innovative and challenging projects.</h3>
 
